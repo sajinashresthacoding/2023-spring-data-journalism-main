@@ -1,3 +1,5 @@
 # Advanced Reporting: Data Journalism
 
-This repository holds all the ```Python``` and ```Pandas``` programming lessons for this course.
+This is my first year learning data and python and panda
+
+## By Sajina Shrestha and Hinata Shouyo
